@@ -19,7 +19,7 @@ When starting your application, set the `TRACES_BACKEND` environment variable to
 TRACES_BACKEND=traces/backend/newrelic bundle exec rails s
 ```
 
-
+test
 
 ## Testing
 
