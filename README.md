@@ -10,7 +10,7 @@ Add the gem to your project's Gemfile. This will also install `newrelic_rpm`, th
 ```ruby
 gem 'traces-backend-newrelic'
 ```
-
+test
 and run `bundle install` to activate the new gem.
 
 When starting your application, set the `TRACES_BACKEND` environment variable to `traces/backend/newrelic`.
